@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Dishang20/Dishang20/main/header.png" alt="Unique Header Banner"/>
-</div>
+
 <br>
 
 <table>
@@ -15,7 +13,7 @@
         <li>🔭 I’m currently working on a full-stack e-commerce platform.</li>
         <li>🌱 I’m deepening my knowledge in TypeScript and Next.js.</li>
         <li>👯 I’m open to collaborating on innovative open-source projects.</li>
-        <li>📫 How to reach me: <a href="mailto:dishangundhad207@gmail.com"><strong>dishangundhad207@gmail.com</strong></a></li>
+        <li>📫 How to reach me: <a href="mailto:undhaddishang207@gmail.com"><strong>undhaddishang207@gmail.com</strong></a></li>
       </ul>
     </td>
     <td width="35%" align="center" valign="top">
@@ -71,7 +69,3 @@
   </a>
 </div>
 <br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Dishang20/Dishang20/main/footer.png" alt="Unique Footer Banner"/>
-</div>
