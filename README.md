@@ -11,7 +11,7 @@
       </p>
       <ul>
         <li>🔭 I’m currently working on a full-stack e-commerce platform.</li>
-        <li>🌱 I’m deepening my knowledge in TypeScript and Next.js.</li>
+        <li>🌱 I’m deepening my knowledge in TypeScript and Nest.js.</li>
         <li>👯 I’m open to collaborating on innovative open-source projects.</li>
         <li>📫 How to reach me: <a href="mailto:undhaddishang207@gmail.com"><strong>undhaddishang207@gmail.com</strong></a></li>
       </ul>
